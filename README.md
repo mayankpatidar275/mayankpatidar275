@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Mayank Patidar</h1>
-<h3 align="center">A passionate Blockchain developer from India</h3>
+<h3 align="center">A passionate Software developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mayankpatidar275&label=Profile%20views&color=0e75b6&style=flat" alt="mayankpatidar275" /> </p>
 
 <p align="left"> <a href="https://twitter.com/mkpatidarr" target="blank"><img src="https://img.shields.io/twitter/follow/mkpatidarr?logo=twitter&style=for-the-badge" alt="mkpatidarr" /></a> </p>
 
-- 🔭 I’m currently working as **Blockchain dev intern**
+- 🔭 I’m currently working as **Software developer intern**
 
 - 📝 I regularly write articles on [https://www.linkedin.com/in/mayank-patidar-b09613202/](https://www.linkedin.com/in/mayank-patidar-b09613202/)
 
-- 💬 Ask me about **reactjs, solidity, ethereum**
+- 💬 Ask me about **reactjs, expressjs, solidity, ethereum**
 
 - 📫 How to reach me **mayankpatidar275**
 
